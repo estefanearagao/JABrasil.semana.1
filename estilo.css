@@ -1,0 +1,16 @@
+body {
+    font-family: Georgia;
+    background-color: darkgray;
+}
+#titulo {
+     color: rgb(204, 55, 104);
+}
+.titulo {
+    color: palevioletred;
+}
+.produto {
+    background: gray;
+    padding: 30px;
+    margin-bottom: 15px;
+    border: solid 5px rosybrown;
+}
